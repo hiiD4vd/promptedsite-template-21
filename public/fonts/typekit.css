@@ -1,0 +1,15 @@
+@font-face {
+  font-family: "halyard-display-variable";
+  src: url("/fonts/typekit_font.woff2") format("woff2");
+  font-display: swap;
+  font-style: normal;
+  font-weight: 100 900;
+}
+
+@font-face {
+  font-family: "halyard-text-variable";
+  src: url("/fonts/typekit_font.woff2") format("woff2");
+  font-display: swap;
+  font-style: normal;
+  font-weight: 100 900;
+}
