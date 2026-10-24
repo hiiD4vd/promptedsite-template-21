@@ -1,0 +1,17 @@
+{
+  "type": "video",
+  "version": "1.0",
+  "provider_name": "Prompted Site",
+  "provider_url": "/",
+  "title": "PROMPTED SITE",
+  "author_name": "Prompted Site",
+  "html": "<div id=\"offline-video-adapter\"></div>",
+  "width": 426,
+  "height": 240,
+  "duration": 45,
+  "thumbnail_url": "/images/video_thumb.webp",
+  "thumbnail_width": 640,
+  "thumbnail_height": 360,
+  "video_id": 1174820580,
+  "uri": "/videos/1174820580"
+}
